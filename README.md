@@ -40,13 +40,12 @@ Hệ thống được thiết kế với hai phân quyền người dùng chuyê
 
 ## 📸 Giao diện ứng dụng
 
-### 🔹 Giao diện Admin
+### 🔹 Giao diện Ban Quản Lý (Admin)
 | Thống kê tài chính | Danh sách hộ dân | Phê duyệt yêu cầu |
 |---|---|---|
-| ![Thống kê](https://via.placeholder.com/400x200?text=Thong+Ke+Admin) | ![Dân cư](https://via.placeholder.com/400x200?text=Quan+Ly+Dan+Cu) | ![Duyệt](https://via.placeholder.com/400x200?text=Phe+Duyet+Yeu+Cau) |
+| ![Thống kê](bluemoon/images/Screenshot%202026-03-03%20223832.jpg) | ![Dân cư](images/Screenshot%202026-03-03%20223804.png) | ![Duyệt](images/Screenshot%202026-03-03%20223823.png) |
 
-### 🔹 Giao diện Cư dân
+### 🔹 Giao diện Cư dân (User)
 | Trang chủ User | Chi tiết hóa đơn | Hệ thống thông báo |
 |---|---|---|
-| ![User](https://via.placeholder.com/400x200?text=Dashboard+User) | ![Hóa đơn](https://via.placeholder.com/400x200?text=Thanh+Toan+Phi) | ![Thông báo](https://via.placeholder.com/400x200?text=Thong+Bao+Moi) |
-
+| ![User](images/Screenshot%202026-03-03%20223920.jpg) | ![Hóa đơn](images/Screenshot%202026-03-03%20223939.jpg) | ![Thông báo](images/Screenshot%202026-03-03%20223952.png) |
