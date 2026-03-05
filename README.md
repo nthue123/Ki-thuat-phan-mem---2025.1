@@ -40,12 +40,17 @@ Hệ thống được thiết kế với hai phân quyền người dùng chuyê
 
 ## 📸 Giao diện ứng dụng
 
-### 🔹 Giao diện Ban Quản Lý (Admin)
-| Thống kê tài chính | Danh sách hộ dân | Phê duyệt yêu cầu |
-|---|---|---|
-| ![Thống kê](bluemoon/images/Screenshot%202026-03-03%20223832.jpg) | ![Dân cư](images/Screenshot%202026-03-03%20223804.png) | ![Duyệt](images/Screenshot%202026-03-03%20223823.png) |
+### 🔹 Trang đăng nhập & Tổng quan
+| Màn hình đăng nhập | Trang chủ hệ thống |
+|---|---|
+| ![Login](bluemoon/images/Screenshot%202026-03-03%20223739.png) | ![Dashboard](bluemoon/images/Screenshot%202026-03-03%20223754.png) |
 
-### 🔹 Giao diện Cư dân (User)
-| Trang chủ User | Chi tiết hóa đơn | Hệ thống thông báo |
-|---|---|---|
-| ![User](images/Screenshot%202026-03-03%20223920.jpg) | ![Hóa đơn](images/Screenshot%202026-03-03%20223939.jpg) | ![Thông báo](images/Screenshot%202026-03-03%20223952.png) |
+### 🔹 Phân quyền Ban Quản Lý (Admin)
+| Quản lý cư dân | Phê duyệt yêu cầu | Thống kê khoản thu | Góp ý từ cư dân |
+|---|---|---|---|
+| ![Dân cư](bluemoon/images/Screenshot%202026-03-03%20223804.png) | ![Duyệt](bluemoon/images/Screenshot%202026-03-03%20223823.png) | ![Thống kê](bluemoon/images/Screenshot%202026-03-03%20223832.png) | ![Góp ý](bluemoon/images/Screenshot%202026-03-03%20223839.png) |
+
+### 🔹 Phân quyền Cư dân (User)
+| Trang chủ User | Thông tin hộ gia đình | Phí & Thanh toán | Hệ thống thông báo |
+|---|---|---|---|
+| ![User](bluemoon/images/Screenshot%202026-03-03%20223920.png) | ![Hộ gia đình](bluemoon/images/Screenshot%202026-03-03%20223932.png) | ![Hóa đơn](bluemoon/images/Screenshot%202026-03-03%20223939.png) | ![Thông báo](bluemoon/images/Screenshot%202026-03-03%20223952.png) |
