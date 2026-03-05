@@ -50,10 +50,3 @@ Hệ thống được thiết kế với hai phân quyền người dùng chuyê
 |---|---|---|
 | ![User](https://via.placeholder.com/400x200?text=Dashboard+User) | ![Hóa đơn](https://via.placeholder.com/400x200?text=Thanh+Toan+Phi) | ![Thông báo](https://via.placeholder.com/400x200?text=Thong+Bao+Moi) |
 
----
-
-## 🚀 Hướng dẫn cài đặt
-
-1. **Clone project**:
-   ```bash
-   git clone [https://github.com/myanh5654/blue-moon-management.git](https://github.com/myanh5654/blue-moon-management.git)
